@@ -1,7 +1,6 @@
 import customtkinter
 import os
 import modules.f_json as fj
-import random as rd
 import modules.menu_principal as mp
 DATA = os.path.join('data/','registros.json')
 #Esta funcion muestra todas las mascotas ordenadas por los nombres, el usuario elige la mascota 

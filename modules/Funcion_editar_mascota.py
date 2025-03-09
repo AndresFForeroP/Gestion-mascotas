@@ -1,7 +1,6 @@
 import customtkinter
 import os
 import modules.f_json as fj
-import random as rd
 import modules.menu_principal as mp
 #creo dos listas que va a usar la libreria customtkinter para mostar en opciones
 DATA = os.path.join('data/','registros.json')
